@@ -22,6 +22,6 @@ test:
 
 production:
   <<: *default
-  database: twilio_appointmnets_production
+  database: twilio_appointments_production
   username: ubuntu
   password:
